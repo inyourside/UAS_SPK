@@ -23,6 +23,7 @@ File yang digunakan untuk uas yaitu:
 DB yang digunakan PostgreSQL 14
 
 Postman yang digunakan Thunder Client
+
 ![image](https://github.com/inyourside/UAS_SPK/assets/115596657/4475fac1-712c-45dd-965e-9d2c516c466b)
 
 Method Get:
