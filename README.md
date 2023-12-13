@@ -22,4 +22,5 @@ File yang digunakan untuk uas yaitu:
 
 DB yang digunakan PostgreSQL 14
 
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/2b923f03-7683-41e5-9a93-6a5ed495413b)
 
