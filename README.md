@@ -21,6 +21,23 @@ File yang digunakan untuk uas yaitu:
 - main_UAS.py
 
 DB yang digunakan PostgreSQL 14
+Postman yang digunakan Thunder Client
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/4475fac1-712c-45dd-965e-9d2c516c466b)
 
-![image](https://github.com/inyourside/UAS_SPK/assets/115596657/2b923f03-7683-41e5-9a93-6a5ed495413b)
+Method Get:
+menampilkan seluruh data
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/880fec73-6ad5-4de0-afb1-9d3403edd6e2)
+
+menampilkan data yang telah disorting berdasarkan Score dengan perhitungan SAW
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/8f13cd45-3af0-42d6-a2f8-2a424e595272)
+
+menampilkan data yang telah disorting berdasarkan Score dengan perhitungan WP
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/3fbdaf62-4d42-4ddd-bca8-db69056ca3ec)
+
+Method POST
+menampilkan data yang telah disorting berdasarkan Score dengan perhitungan SAW
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/7b4cc59d-2ac5-4230-ab71-a705db968888)
+
+menampilkan data yang telah disorting berdasarkan Score dengan perhitungan WP
+![image](https://github.com/inyourside/UAS_SPK/assets/115596657/7d296c54-172a-488e-8c33-6a62813c404f)
 
