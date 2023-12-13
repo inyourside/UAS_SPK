@@ -20,8 +20,8 @@ File yang digunakan untuk uas yaitu:
 - models_UAS.py
 - main_UAS.py
 
+Python : 3.11.2
 DB : PostgreSQL 14
-
 Postman : Thunder Client
 
 
