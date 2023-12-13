@@ -27,6 +27,7 @@ DB : PostgreSQL 14
 Postman : Thunder Client
 
 
+
 Method POST
 
 menampilkan data yang telah disorting berdasarkan Score dengan perhitungan SAW
